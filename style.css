@@ -1,5 +1,5 @@
 body {
-	background-color: Blue;
+	background-color: Pink;
 	font-family: cursive;
   }
 
@@ -44,7 +44,7 @@ hr.hr2 {
 
 .footer p{
 			padding: 5px;
-			background-color: rgb(0, 0, 0);
+			background-color: rgb(0, 0, 255);
 			font-weight: bold;
 			text-align: center;
 		}
