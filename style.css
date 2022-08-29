@@ -12,7 +12,7 @@ body {
 
 	.glow {
 		font-size: 50px;
-		color: rgb(153, 0, 255);
+		color: rgb(0, 0, 255);
 		text-align: center;
 		animation: glow 1s ease-in-out infinite alternate;
 	  }
